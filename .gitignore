@@ -1,0 +1,9 @@
+downloads/
+exports/
+configs/
+backgrounds/
+__pycache__/
+*.pyc
+.env
+venv/
+
